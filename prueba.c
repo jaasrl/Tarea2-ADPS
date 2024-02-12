@@ -1,3 +1,5 @@
+//Tarea 2 Equipo 1
+
 #include <stdio.h>
 
 int main(){
